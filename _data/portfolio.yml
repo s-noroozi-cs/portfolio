@@ -1,9 +1,9 @@
 enable: true
 filters:
   - web
-  - ai
-  - game
+  - distribute-processing
+  - streaming
   - os
-  - robotics
-  - mobile
+  - automation
+  - ci-cd
 description:  
